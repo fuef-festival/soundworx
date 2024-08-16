@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contributors on SoundworX</title>
+    <link>http://localhost:1313/contributors/</link>
+    <description>Recent content in Contributors on SoundworX</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <copyright>Festival für Freunde e.V. 2024 – Inhalte lizensiert unter der &lt;a href=&#39;https://creativecommons.org/licenses/by-nc-sa/4.0/&#39;&gt;CC BY-NC-SA 4.0&lt;/a&gt;</copyright>
+    <atom:link href="http://localhost:1313/contributors/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

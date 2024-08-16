@@ -1,0 +1,11 @@
+{
+  "editor.wordWrap": "off",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "cSpell.words": [
+    "Soundwor"
+  ],
+  "cSpell.language": "en,de-DE"
+}
