@@ -1,5 +1,5 @@
 title = "SoundworX"
-baseurl = "https://soundworx.festivalfuerfreunde.de"
+baseurl = "http://localhost:1313/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
