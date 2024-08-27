@@ -28,16 +28,20 @@
   identifier = "lorem"
   url = "/tutorial/lorem/"
 
-[[main]]
-  name = "Dokumentation"
-  url = "/docs/guides/example-guide/"
-# url = "/docs/1.0/prologue/introduction/"
-  weight = 10
+# [[main]]
+#   name = "Dokumentation"
+#   url = "/docs/guides/example-guide/"
+#   weight = 10
 
 [[main]]
   name = "Anmelden"
   url = "/register/"
   weight = 5
+
+[[main]]
+  name = "Workshops"
+  url = "/workshops/"
+  weight = 6
 
 # [[social]]
 #   name = "Twitter"

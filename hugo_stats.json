@@ -49,6 +49,7 @@
     "classes": [
       "DocSearch-Label",
       "active",
+      "align-items-center",
       "anchor",
       "bg-dots",
       "blog",
@@ -63,6 +64,7 @@
       "card-body",
       "card-list",
       "categories",
+      "col",
       "col-lg-10",
       "col-lg-11",
       "col-lg-12",
@@ -190,6 +192,7 @@
       "register",
       "rounded-pill",
       "row",
+      "row-about",
       "search-form",
       "search-input",
       "search-loading",
@@ -225,6 +228,7 @@
       "toc-mobile",
       "visually-hidden",
       "w-100",
+      "workshops",
       "wrap"
     ],
     "ids": [
@@ -244,7 +248,13 @@
       "searchToggleDesktop",
       "searchToggleMobile",
       "socialMenu",
-      "toc"
+      "toc",
+      "workshop-1-kick-off-online-am-14092024",
+      "workshop-2-schwerpunkt-ableton-210920241100-1400-uhr",
+      "workshop-3-schwerpunkt-lightkey-21092024-1500-1800-uhr",
+      "workshop-4-programmieren-i-22092024-1300-1800-uhr",
+      "workshop-5-baustellenplanung--koordination-und-troubleshooting-05102024-",
+      "workshop-6-programmieren-ii-06102024-"
     ]
   }
 }

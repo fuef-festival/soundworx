@@ -5,6 +5,7 @@ summary: "Hier kannst du dich für die Workshops anmelden"
 date: 2024-08-16T18:36:32+02:00
 lastmod: 2024-08-16T18:36:32+02:00
 draft: false
+type: "about"
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
@@ -13,3 +14,4 @@ seo:
 ---
 
 Kommt in Kürze.
+
