@@ -13,5 +13,4 @@ seo:
   noindex: false # false (default) or true
 ---
 
-Kommt in Kürze.
-
+<iframe src="https://data.1-2-wir.org/form/oohA8yo-ugwAtfKbEeFsTkSxfIg2h14NcpvwkxbcpK8" width="100%" height="900px" frameborder="0" allowfullscreen></iframe>
