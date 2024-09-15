@@ -2,7 +2,6 @@ backend:
   name: github
   branch: main  # Or 'master' based on your default GitHub branch
   repo: fuef-festival/soundworx
-  base_url: https://soundworx.org  # The base URL of your site (replace with your own)
   auth_endpoint: https://github.com/login/oauth/authorize  # GitHub OAuth endpoint
   client_id: Ov23liKUCTTD8SAsPqD5  # Replace with your GitHub OAuth Client ID
   auth_type: implicit  # Authentication method
