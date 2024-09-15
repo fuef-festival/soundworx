@@ -12,5 +12,6 @@ collections:
       - file: "content/workshops.md"
         label: workshops
         name: Workshops
+        fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
