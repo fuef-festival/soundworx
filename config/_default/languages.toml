@@ -15,7 +15,7 @@
   [de.params]
     languageISO = "DE"
     languageTag = "de-DE"
-    footer = 'Ein Projekt des <a href="http://www.festivalfuerfreunde.de/">Festivals für Freunde</a> mit Unterstützung aus TODO.'
+    footer = 'Ein Projekt des <a href="http://www.festivalfuerfreunde.de/">Festivals für Freunde</a> geför-dert mit Mitteln des Ministerium für Wissen-schaft, Forschung und Kultur des Landes Brandenburg.'
     alertText = ''
 
 [nl]
