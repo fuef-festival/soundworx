@@ -2,16 +2,19 @@ backend:
   name: git-gateway
   branch: main  # Or 'master' based on your default GitHub branch
 
-media_folder: "static/images/uploads" # Media files will be stored in this folder
-public_folder: "/images/uploads"
-
+media_folder: static/images/uploads
+public_folder: /images/uploads
 collections:
   - name: pages
     label: Pages
     files:
-      - file: "content/workshops.md"
+      - file: content/workshops.md
         label: workshops
         name: Workshops
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
