@@ -1,0 +1,16 @@
+---
+description: Informationen über das Projekt
+summary: Soundworx ermöglicht den Zugang zu audiogesteuerter Lichtsoftware
+date: '2024-09-16T16:36:32.000Z'
+lastmod: '2024-09-16T16:36:32.000Z'
+draft: false
+type: about
+seo:
+  title: ''
+  description: ''
+  canonical: ''
+  noindex: false
+title: Projekt
+---
+
+Soundworx ermöglicht den Zugang zu audiogesteuerter Lichtsoftware - für Künstler:innen, die ihre eigene Lichtshow mit auf Tour nehmen wollen - und dabei unabhängig vom jeweiligen Venue sein wollen/müssen. Soundworx macht es möglich, eine Lichtshow für das eigene Konzert modular vorzuprogrammieren und an verschiedenen Veranstaltungsorten flexibel einzusetzen. Das Projekt möchte so Künstler:innen empowern, die trotz geringer finanzieller Ressourcen eine überzeugende Lichtshow zu ihren Auftritten mitbringen möchten. Fokus ist dabei ganz klar der ländliche Raum in Brandenburg, wo es viel Kultur, aber weniger Veranstaltungs-Infrastruktur gibt als in Großstädten. Gleichzeitig stellt Soundworx auch den Vermittlungsprozess ins Zentrum. So kann sich im Herbst 2024 in einer Workshop-Reihe dem ganzen Projekt angenähert werden: vom ersten Schritt bis zur professionellen Lichtshow. Die Ergebnisse der Erarbeitung und der Workshops werden dokumentiert und auf dieser Website zugänglich gemacht. Das Ziel ist, das gesammelte Wissen möglichst barrierearm zugänglich zu machen und eine digitale Anleitung für die verschiedenen Sachbereiche zu erstellen.
