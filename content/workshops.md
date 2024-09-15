@@ -1,16 +1,16 @@
 ---
-title: "Workshops"
-description: "Überblick über die Workshops"
-summary: "Überblick über die Workshops"
-date: 2024-08-16T18:36:32+02:00
-lastmod: 2024-08-16T18:36:32+02:00
+description: Überblick über die Workshops
+summary: Überblick über die Workshops
+date: '2024-08-16T16:36:32.000Z'
+lastmod: '2024-08-16T16:36:32.000Z'
 draft: false
-type: "about"
+type: about
 seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: ''
+  description: ''
+  canonical: ''
+  noindex: false
+title: Workshops
 ---
 
 Im Rahmen des Projekts „Soundworx“, dass sich mit der Verknüpfung von digitaler Audio- und Lichtsoftware beschäftigt, findet im September und Oktober 2024 eine Workshop-Reihe in Brandenburg statt. In sechs Workshops wird das Projekt von den ersten Schritten bis zum Programmieren eigener soundgesteuerter Shows zugänglich gemacht. Die Workshops richten sich an Musiker:innen und Kulturakteur:innen, die ihren Auftritten eine soundgesteuerte Lichtshow hinzufügen wollen, sowie (Licht)Techniker:innen, die sich für die Verknüpfung von Sound und Licht in ihrer Arbeit interessieren. Die Workshops sind auch offen für Menschen ohne Vorkenntnisse, die sich für das Themenfeld interessieren.

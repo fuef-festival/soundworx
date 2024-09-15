@@ -186,6 +186,7 @@
       "page-nav",
       "pb-3",
       "position-relative",
+      "posts",
       "privacy",
       "px-0",
       "query-no-results",
@@ -237,6 +238,7 @@
       "buttonColorMode",
       "doks-docs-nav",
       "further-reading",
+      "hello-world",
       "offcanvasNavMain",
       "offcanvasNavMainLabel",
       "offcanvasNavSection",
@@ -250,12 +252,12 @@
       "searchToggleMobile",
       "socialMenu",
       "toc",
-      "workshop-1-kick-off-online-am-14092024",
-      "workshop-2-schwerpunkt-ableton-210920241100-1400-uhr",
-      "workshop-3-schwerpunkt-lightkey-21092024-1500-1800-uhr",
-      "workshop-4-programmieren-i-22092024-1300-1800-uhr",
-      "workshop-5-baustellenplanung--koordination-und-troubleshooting-05102024-",
-      "workshop-6-programmieren-ii-06102024-"
+      "workshop-1-kick-off-online-am-27092024",
+      "workshop-2-schwerpunkt-ableton-051020241100-1400-uhr",
+      "workshop-3-schwerpunkt-lightkey-05102024-1500-1800-uhr",
+      "workshop-4-programmieren-i-06102024-1100-1400-uhr",
+      "workshop-5-troubleshooting-06102024-1500-1800-uhr",
+      "workshop-6-programmieren-ii-19102024-1200-1800-uhr"
     ]
   }
 }
