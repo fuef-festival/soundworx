@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   branch: main  # Or 'master' based on your default GitHub branch
   repo: fuef-festival/soundworx
   base_url: https://soundworx.org  # The base URL of your site (replace with your own)
