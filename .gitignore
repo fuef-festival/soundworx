@@ -2,4 +2,5 @@
 .DS_Store
 stub
 .cache
-out
+site
+deploy.sh

@@ -30,15 +30,6 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material[imaging]
       - run: mkdocs build
-      - name: SFTP Sync
-        uses: swillner/sftp-sync-action@v1.0
-        with:
-          server: ${{ secrets.SFTP_HOST }}
-          user: ${{ secrets.SFTP_USR }}
-          user_private_key: "${{ secrets.SFTP_KEY }}"
-          host_public_key: ""
-          remote: /
-          mirror_options: "--exclude-glob=.git*/ --verbose"
       # - name: SFTP uploader
       #   uses: wangyucode/sftp-upload-action@v2.0.2
       #   with:

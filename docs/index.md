@@ -1,6 +1,6 @@
 **SOUNDWORX**
 
-Computerbasierte Lichttechnik durch Audio-Software steuern – Licht- und Sound-Enablement – Workshops – DIY | Community-Building | Nachhaltige Strukturen für Brandenburg.
+Computerbasierte Lichttechnik durch Audio-Software steuern | Licht- und Sound-Enablement | Workshops | DIY | Community-Building | Nachhaltige Strukturen für Brandenburg.
 
 ## [Workshops](https://soundworx.org/workshops)
 
