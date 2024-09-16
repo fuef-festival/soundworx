@@ -2,9 +2,26 @@ site_name: SoundworX
 
 theme:
   name: material
+  language: de
+  logo: assets/logo.svg
+  favicon: assets/favicon.png
   features:
     - navigation.tabs
-
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
 
 nav:
   - Home: index.md
@@ -14,3 +31,20 @@ nav:
   #   - Einleitung: documentation/index.md
   #   - Ein Thema: documentation/entry.md
   - Projekt & Team: project.md
+  - Impressum:
+    - Impressum: about/imprint.md
+    - Lizenz/Urheberrecht: about/license.md
+
+plugins:
+  - privacy
+
+
+extra:
+  social_image: assets/og-image.png
+  social_description: "Computerbasierte Lichttechnik durch Audio-Software steuern, Licht- und Sound-Enablement, Workshops"
+  social_title: "Soundworx"
+  generator: false
+
+repo_url: https://github.com/fuef-festival/soundworx
+repo_name: fuef-festival/soundworx
+copyright: Ein Projekt des <a href="http://www.festivalfuerfreunde.de/">Festivals für Freunde e.V.</a> gefördert mit Mitteln des Ministerium für Wissenschaft, Forschung und Kultur des Landes Brandenburg. Made with Material for MkDocs.
