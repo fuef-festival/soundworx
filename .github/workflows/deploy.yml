@@ -39,4 +39,5 @@ jobs:
           remote-host: ${{ secrets.SFTP_HOST }}
           remote-user: ${{ secrets.SFTP_USR }}
           remote-password: ${{ secrets.SFTP_PWD }}
+          remote-path: .
           remote-port: 22
