@@ -36,7 +36,7 @@ jobs:
           server: ${{ secrets.SFTP_HOST }}
           user: ${{ secrets.SFTP_USR }}
           user_private_key: "${{ secrets.SFTP_KEY }}"
-          host_public_key: ${{ secrets.SFTP_PUB_KEY }}
+          host_public_key: ""
           remote: /
           mirror_options: "--exclude-glob=.git*/ --verbose"
       # - name: SFTP uploader
