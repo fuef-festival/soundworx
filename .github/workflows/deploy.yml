@@ -27,4 +27,13 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material[imaging]
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs build
+      - name: Deploy to Webspace using SFTP
+        uses: milanmk/actions-file-deployer@master
+        with:
+          remote-protocol: sftp
+          remote-host: ${{ secrets.SFTP_HOST }}
+          remote-user: ${{ secrets.SFTP_USR }}
+          remote-password: ${{ secrets.SFTP_PWD }}
+          remote-path: /
+          remote-port: 22
