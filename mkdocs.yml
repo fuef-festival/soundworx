@@ -1,0 +1,16 @@
+site_name: Soundworx
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+
+nav:
+  - Home: index.md
+  - Anmelden: register.md
+  - Workshops: workshops.md
+  # - Dokumentation:
+  #   - Einleitung: documentation/index.md
+  #   - Ein Thema: documentation/entry.md
+  - Projekt & Team: project.md
