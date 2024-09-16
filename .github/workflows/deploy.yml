@@ -30,14 +30,13 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material[imaging]
       - run: mkdocs build
-      - name: Deploy to Webspace using SFTP
-        uses: milanmk/actions-file-deployer@master
+      - name: SFTP uploader
+        uses: wangyucode/sftp-upload-action@v2.0.2
         with:
-          sync: full
-          local-path: ./site
-          remote-protocol: sftp
-          remote-host: ${{ secrets.SFTP_HOST }}
-          remote-user: ${{ secrets.SFTP_USR }}
-          remote-password: ${{ secrets.SFTP_PWD }}
-          remote-path: .
-          remote-port: 22
+          host: ${{ secrets.SFTP_HOST }}
+          username: ${{ secrets.SFTP_USR }}
+          password: ${{ secrets.SFTP_PWD }}
+          compress: true
+          forceUpload: true
+          localDir: './site'
+          remoteDir: '/'
