@@ -33,6 +33,7 @@ jobs:
       - name: Deploy to Webspace using SFTP
         uses: milanmk/actions-file-deployer@master
         with:
+          local-path: site
           remote-protocol: sftp
           remote-host: ${{ secrets.SFTP_HOST }}
           remote-user: ${{ secrets.SFTP_USR }}
