@@ -34,10 +34,9 @@ jobs:
         uses: milanmk/actions-file-deployer@master
         with:
           sync: delta
-          local-path: site/
+          local-path: ./site
           remote-protocol: sftp
           remote-host: ${{ secrets.SFTP_HOST }}
           remote-user: ${{ secrets.SFTP_USR }}
           remote-password: ${{ secrets.SFTP_PWD }}
-          remote-path: /
           remote-port: 22
