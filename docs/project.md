@@ -4,4 +4,4 @@ Soundworx ermöglicht den Zugang zu audiogesteuerter Lichtsoftware - für Künst
 
 ## Das Team
 
-Soundworx besteht aus Ritchie (Design und Didaktik), Irvin (Technik und IT) und Steffi (Projektmanagement und Presse). Dazu kommen vier weitere Dozierende für die Workshops: Lucas (Ableton, Midi und OSC), Oel (Theatertechnik und Programmieren), Dominik (Veranstaltungstechnik) und David (Lichtdesign).
+Soundworx besteht aus Ritchie (Design und Didaktik), Irvin (Technik und IT) und Steffi (Projektmanagement und Presse). Dazu kommen vier weitere Dozierende für die Workshops: Lucas (Ableton, Midi und OSC), Leo (Theatertechnik und Programmieren), Dominik (Veranstaltungstechnik) und David (Lichtdesign).
