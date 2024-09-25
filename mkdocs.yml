@@ -24,7 +24,7 @@ theme:
         name: Switch to system preference
 
 nav:
-  - Home: index.md
+  - Home: /
   - Anmelden: register.md
   - Workshops: workshops.md
   # - Dokumentation:
@@ -34,6 +34,7 @@ nav:
   - Rechtliches:
     - Impressum: about/imprint.md
     - Lizenz/Urheberrecht: about/license.md
+    - Datenschutz: about/gdpr.md
 
 plugins:
   - privacy
