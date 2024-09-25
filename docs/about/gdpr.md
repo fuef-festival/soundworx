@@ -119,5 +119,5 @@ Wir klären Sie darüber auf, dass die Bereitstellung personenbezogener Daten zu
 
 Als verantwortungsbewusstes Verein verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.
 
-Diese Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator der DGD Deutsche Gesellschaft für Datenschutz GmbH, die als Externer Datenschutzbeauftragter Niederbayern tätig ist, in Kooperation mit den Datenschutz Anwälten der Kanzlei WILDE BEUGER SOLMECKE | Rechtsanwälte erstellt.
+Diese Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator der DGD Deutsche Gesellschaft für Datenschutz GmbH, die als [Externer Datenschutzbeauftragter Niederbayern](https://dg-datenschutz.de/datenschutz-dienstleistungen/externer-datenschutzbeauftragter/) tätig ist, in Kooperation mit den [Datenschutz Anwälten der Kanzlei WILDE BEUGER SOLMECKE | Rechtsanwälte erstellt.](https://www.wbs.legal/it-recht/datenschutzrecht/)
 
