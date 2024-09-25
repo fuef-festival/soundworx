@@ -45,6 +45,9 @@ extra:
   social_description: "Computerbasierte Lichttechnik durch Audio-Software steuern, Licht- und Sound-Enablement, Workshops"
   social_title: "Soundworx"
   generator: false
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/soundworx_light_audio/
 
 repo_url: https://github.com/fuef-festival/soundworx
 repo_name: fuef-festival/soundworx
