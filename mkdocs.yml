@@ -51,4 +51,4 @@ extra:
 
 repo_url: https://github.com/fuef-festival/soundworx
 repo_name: fuef-festival/soundworx
-copyright: <p>Ein Projekt des <a href="http://www.festivalfuerfreunde.de/">Festivals für Freunde e.V.</a> gefördert von der DIWA-Förderung, den Beauftragten der Bundesregierung für Kultur und Medien sowie den Kultur- und Kunstministerien der Länder und durch das Ministerium für Wissenschaft, Forschung und Kultur des Landes Brandenburg. Made with Material for MkDocs.</p> <img src="brandenburg.png" />
+copyright: <p>Ein Projekt des <a href="http://www.festivalfuerfreunde.de/">Festivals für Freunde e.V.</a> gefördert von der DIWA-Förderung, den Beauftragten der Bundesregierung für Kultur und Medien sowie den Kultur- und Kunstministerien der Länder und durch das Ministerium für Wissenschaft, Forschung und Kultur des Landes Brandenburg. Made with Material for MkDocs.</p> <img src="/brandenburg.png" />
