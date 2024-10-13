@@ -49,7 +49,7 @@ Zum Abschluss der Workshop-Reihe wird es nochmal praktisch: Auf Basis der vorher
 
 ### Dozierende
 
-#### Richard Haufe-Ahmels (Workshop 1+3)
+#### Richard Haufe-Ahmels (Workshop 3)
 
 Theaterwissenschaftler, führt bei dokumentarischen und fiktiven Filmen Regie, inszeniert Theater, entwickelt Performances und arbeitet als Videokünstler. Außerdem produziert er Auftragsarbeiten im Bereich Theater/Kultur/Medien und entwickelt Installationen. Unter dem Fokus von mobiler und flexibler Einsetzbarkeit arbeitet Richard Haufe-Ahmels auch mit Computer basierter Lichtsteuerungssoftware, in die er im Soundworx-Workshop einführt, immer mit Blick auf den Workflow und die Vernetzung mit anderen Medien/Geräten.
 
