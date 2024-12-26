@@ -25,12 +25,23 @@ theme:
 
 nav:
   - Home: /
-  - Anmelden: register.md
-  - Workshops: workshops.md
-  # - Dokumentation:
-  #   - Einleitung: documentation/index.md
-  #   - Ein Thema: documentation/entry.md
-  - Projekt & Team: project.md
+  - Technische Grundlagen:
+    - Strom: primer/power.md
+    - DMX: primer/dmx.md
+    - W-DMX: primer/wdmx.md
+    - MIDI: primer/midi.md
+  - "SoundworX: Setup & Beispiel": setup.md
+  - Licht:
+    - Programmieren: light/programming.md
+    - Lightkey: light/lightkey.md
+    - QLC+: light/qlcp.md
+  - Audio:
+      - Ableton: audio/ableton.md
+      - Alternative: audio/alternative.md
+  - Troubleshooting: troubleshooting.md
+  - Das Projekt:
+    - Über & Team: project.md
+    - Workshops: workshops.md
   - Rechtliches:
     - Impressum: about/imprint.md
     - Lizenz/Urheberrecht: about/license.md
