@@ -65,12 +65,15 @@ Im Design-Fenster kannst du sämtliche Einstellungen für die Lampen vornehmen. 
 
 #### Effekte
 
-- **Dimmer-Effekte**: Wenn du auf das Wort „Dimmer“ klickst, öffnet sich ein weiteres Menü. Hier können Effekte hinzugefügt werden. Du kannst eine der Vorlagen aus der Kategorie „Dimmer“ nehmen oder einen eigenen Effekt erzeugen. Wir haben uns nur mit Kurven-basierten Effekten beschäftigt. Es gibt noch mehr zu entdecken. Wenn du einen Kurven-Effekt auswählst, öffnet sich ein Fenster, welches dir auf einer Zeitachse die Intensität des Dimmers anzeigt. Rechts kannst du Vorlagen auswählen und bei mehreren Lampen einen Zeitversatz. (Beispiel: ein Zeitversatz von 50% bei zwei Lampen bedeutet, dass sie abwechselnd Blinken, Angehen, Ausgehen je nach gewähltem Effekt.) Du kannst die Graphen auch von Hand selbst verschieben. Du verlässt die Einstellungen, in dem du wieder auf den Rider Design klickst. Auf dem Dimmer erscheint jetzt ein „Effekt-Symbol“. Durch Klicken kommst du wieder in den Effekt.
-- **Farb-Effekte:** Wenn du auf das Wort „Farbe“ klickst, öffnet sich ein weiteres Menü. Hier können Effekte hinzugefügt werden. Du kannst eine der Vorlagen aus der Kategorie „Farbe“ nehmen oder einen eigenen Effekt erzeugen. Im Unterschied zu Dimmer-Effekten kannst du hier auch Muster-Effekte erstellen. Bei einem Muster-Effekt wählst du verschiedene Felder an, die nacheinander abgespielt werden (bei bspw. einem PAR), bei den Sunbars allerdings kannst du zehn Felder angeben und
+**Dimmer-Effekte**: Wenn du auf das Wort „Dimmer“ klickst, öffnet sich ein weiteres Menü. Hier können Effekte hinzugefügt werden. Du kannst eine der Vorlagen aus der Kategorie „Dimmer“ nehmen oder einen eigenen Effekt erzeugen. Wir haben uns nur mit Kurven-basierten Effekten beschäftigt. Es gibt noch mehr zu entdecken. Wenn du einen Kurven-Effekt auswählst, öffnet sich ein Fenster, welches dir auf einer Zeitachse die Intensität des Dimmers anzeigt. Rechts kannst du Vorlagen auswählen und bei mehreren Lampen einen Zeitversatz. (Beispiel: ein Zeitversatz von 50% bei zwei Lampen bedeutet, dass sie abwechselnd Blinken, Angehen, Ausgehen je nach gewähltem Effekt.) Du kannst die Graphen auch von Hand selbst verschieben. Du verlässt die Einstellungen, in dem du wieder auf den Rider Design klickst. Auf dem Dimmer erscheint jetzt ein „Effekt-Symbol“. Durch Klicken kommst du wieder in den Effekt.
+
+**Farb-Effekte:** Wenn du auf das Wort „Farbe“ klickst, öffnet sich ein weiteres Menü. Hier können Effekte hinzugefügt werden. Du kannst eine der Vorlagen aus der Kategorie „Farbe“ nehmen oder einen eigenen Effekt erzeugen. Im Unterschied zu Dimmer-Effekten kannst du hier auch Muster-Effekte erstellen. Bei einem Muster-Effekt wählst du verschiedene Felder an, die nacheinander abgespielt werden (bei bspw. einem PAR), bei den Sunbars allerdings kannst du zehn Felder angeben und
+
 
 #### Spezialfall Sunbars
 
 Am Beispiel der Sunbar wird gut deutlich, was alles an Effekten kombiniert werden kann. Wir haben 4 rosa Felder von links nach rechts laufen lassen, dazu 3 blaue Felder von rechts nach links. Und zusätzlich flashen die Blinder. In der Beispiel-Datei findest du die Einstellungen dazu unter Oktave c3, 312-h-3.
+
 
 #### Spezialfall Moving Washes
 
@@ -106,5 +109,5 @@ Dieses praktische kleine Fenster unten rechts sagt dir immer, welche Tastenkombi
  
 ## Die Projektdatei
 
-[Hier]() findest die Projektdatei von Soundworx.
+[Hier](soundworx.lightkeyproj) findest die Projektdatei von Soundworx.
  
